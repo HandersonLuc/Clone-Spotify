@@ -1,6 +1,6 @@
 import { Foooter } from '@/components/Footer';
 import { Sidebar } from '@/components/Sidebar';
-import {Home as SomeIcon, Search,Library, HomeIcon, ChevronLeft, ChevronRight, Play, Shuffle, SkipBack, SkipForward, Repeat, Mic, Mic2, LayoutListIcon, LayoutList, Laptop2, Volume, Fullscreen, Maximize2} from 'lucide-react';
+import {Home as ChevronLeft, ChevronRight, Play} from 'lucide-react';
 import Image from 'next/image';
 
 export default function Home() {
