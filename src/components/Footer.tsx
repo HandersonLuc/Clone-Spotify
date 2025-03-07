@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export function Foooter(){
     return(
-        <footer className="bg-zinc-900 border-t border-zinc-700 px-6 py- 4 flex items-center justify-between">
+        <footer className="bg-zinc-900 border-t border-zinc-700 px-6 py-3 flex items-center justify-between">
         <div className='flex items-center gap-2'>
           <Image src="/avenged_sevenfold.jpg" width={48} height={48} alt="capa de album"/>
           <div className='flex flex-col'>
